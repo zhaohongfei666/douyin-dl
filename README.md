@@ -1,21 +1,25 @@
 # Douyin Downloader 🎬
 
-Download Douyin/TikTok videos without watermark.
+Download Douyin / TikTok videos **without watermark**.
 
-## Usage
+## Quick Start
 
-```
-douyin_dl.exe "https://www.douyin.com/video/xxxxx"
+```bash
+python douyin_dl.py "https://www.douyin.com/video/xxxxx"
 ```
 
 Video will be saved to `downloads/` folder.
 
 ## Requirements
 
-- Windows
-- Internet connection
-- A Douyin video share link
+- Python 3.6+
+- `pip install requests`
 
-## Support
+## Support This Project ☕
 
-If this tool helped you, please star ⭐ the repo!
+If this tool helped you save time, consider supporting:
+
+- **[Buy Me a Coffee](https://buymeacoffee.com)** - ko-fi.com
+- **BTC:** (coming soon)
+
+⭐ Star this repo if you find it useful!
